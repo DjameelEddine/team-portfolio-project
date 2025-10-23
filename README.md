@@ -6,4 +6,4 @@ A portfolio website for the team of the software engineering project.
 - DIB Ishak => Github Username: dibshak
 - MOBAREK Asmaa => Github Username: asmaambr
 - BOUCHRIT Maroua => Github Username: marouabb
-- BERGHOUT Imed => Github Username: ??
+- BERGHOUT Imed => Github Username: uimxd
